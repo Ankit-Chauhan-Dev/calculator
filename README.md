@@ -5,6 +5,10 @@ A simple and responsive calculator built using HTML, CSS, and JavaScript.
 ## 🚀 Live Demo
 🔗 https://ankit-chauhan-dev.github.io/calculator/
 
+## Screenshot
+![Calculator Screenshot]
+(Screenshot 2026-02-23 004229.png)
+
 ## 📌 Features
 - Basic arithmetic operations (+, −, ×, ÷)
 - Clean UI design
